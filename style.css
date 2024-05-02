@@ -68,9 +68,6 @@ body{
     color: brown;
     padding: 10px;
 }
-#welcome{
-   
-}
 
 @keyframes welcome{
     0% {opacity: 0;}
