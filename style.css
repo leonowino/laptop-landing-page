@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+    background-image: url('images/flat-lay-workstation-with-copy-space-laptop.jpg');
+    background-size: cover;
+   backdrop-filter: inherit;
+}
+#header{
+    display: flex;
+}
+#logo{
+    color: white;
+    padding-left: 10px;
+    padding-top: 0px;
+}
+#links{
+    color: white;
+    display: flex;
+    padding-left: 90%;
+    
+}
+#button{
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 40px;
+    margin-left: 5px;
+
+}
+#button2{
+    background-color: brown;
+    color: white;
+    width: 20%;
+    height: 40px;
+   
+}
+
+#bgroup{
+    display: flex;
+    padding-left: 50%;
+    padding-top: 20px;
+}
+#item{
+    
+    list-style-type: none;
+    padding-left: 20px;
+}
+#content{
+    color: rgb(225, 227, 226);
+    text-align: center;
+    padding-top: 60px;
+}
+#header-text{
+    text-align: center;
+}
+#image{
+    text-align: center;
+}
+#menu-items{
+    padding-top: 20px;
+}
+#brown{
+    color: brown;
+}
+#brown1{
+    color: brown;
+    padding: 10px;
+}
+#welcome{
+    transition: ease-in;
+    transition-duration: 5s;
+
+}
